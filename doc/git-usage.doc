@@ -10,7 +10,7 @@ HTTPS/SSH:
   git push -u origin master
 
 ¡­or push an existing repository from the command line
-  git remote add (https:// or git@)github.com/(your-github-name)/(your-repository-name).git 
+  git remote add origin (https:// or git@)github.com/(your-github-name)/(your-repository-name).git 
   git push -u origin master
 
 
